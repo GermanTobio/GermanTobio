@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Germán Ariel Tobio Antonelli</h1>
-<h3 align="center">Un estudiante de programación en JAVA!</h3>
+<h3 align="center">Aquí encontraras un portfolio con proyectos académicos y de creación 100% propia</h3>
 
-- 🌱 I’m currently learning **Grado superior de desarrollo de aplicaciones multiplataforma "DAM"**
+- 🌱 Terminando **Grado superior de desarrollo de aplicaciones multiplataforma "DAM"** solo me quedan las prácticas!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
